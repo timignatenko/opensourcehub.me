@@ -82,7 +82,7 @@ Download the entire repository as a ZIP or browse raw files.
 
 ## Author
 
-Built and maintained by **[Tim](https://github.com/tim-fullstack-programmer)**  
+Built and maintained by **[Tim](https://github.com/timignatenko)**  
 🌐 Live demo: [opensourcehub.me](https://opensourcehub.me)
 
 ---
